@@ -1,6 +1,6 @@
 # Poh Jia Qing - Academic Website
 
-Personal academic website with sidebar navigation, inspired by academic websites from MMLab@NTU researchers.
+Personal academic website with sidebar navigation.
 
 ## Setup for GitHub Pages
 
